@@ -85,7 +85,7 @@ Customize according to your stack:
 
 If you have a live version or video walkthrough:
 
-* 🌐 Live Demo: [[university-management-system.example.com](#)](https://github.com/Din-Rasin/University-Management-System)
+* 🌐 Live Demo: (https://github.com/Din-Rasin/University-Management-System)
 * 🎥 Watch Demo Video: https://github.com/Din-Rasin/University-Management-System
 
 ---
