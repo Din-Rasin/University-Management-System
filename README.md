@@ -1,80 +1,5 @@
 
 ---
-
-````markdown
-## 🎓 University Management System
-
-A **University Management System** designed to simplify and automate academic operations such as student registration, course management, faculty allocation, examination handling, and reporting. This project is ideal for educational institutions looking for a centralized digital solution.
-
----
-
-### 🌟 Key Features
-
-* ✅ **Student Management**  
-  Register, update, and view student records, academic performance, and personal information.
-
-* 🧑‍🏫 **Faculty Management**  
-  Add faculty profiles, assign courses, and track teaching history.
-
-* 📘 **Course & Curriculum Management**  
-  Create, update, and manage courses, credits, and prerequisites.
-
-* 🗓️ **Class Scheduling**  
-  Timetable generation and classroom assignment.
-
-* 📝 **Examination System**  
-  Create exams, manage question banks, publish results.
-
-* 📄 **Result Processing**  
-  Grade calculation, GPA generation, and transcript generation.
-
-* 🔐 **Role-Based Access Control**  
-  Different access levels for Admin, Faculty, and Students.
-
-* 📊 **Dashboards & Analytics**  
-  Visual reports and statistics for better decision-making.
-
-* 📤 **Document Management**  
-  Upload and manage documents like ID cards, certificates, and grade reports.
-
-* 📨 **Notification System**  
-  Send alerts and updates via email or internal messages.
-
-* 💬 **Student-Faculty Interaction**  
-  Messaging or Q&A module between students and faculty.
-
----
-
-### 🛠️ Technologies Used
-
-| Layer    | Technology                                 |
-| -------- | ----------------------------------------- |
-| Frontend | HTML, CSS, JavaScript, Bootstrap / React / Vue |
-| Backend  | PHP / Node.js                             |
-| Database | MySQL                                    |
-| Others   | jQuery, AJAX                             |
-
----
-
-### 📦 Installation Guide
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/your-username/University-Management-System.git
-````
-
-2. **Configure the Database**
-   Import `database.sql` using phpMyAdmin or CLI.
-
-3. **Set Up Environment**
-   Configure environment variables or update `config.php` / `.env`.
-
-4. **Run the Server**
-   Launch using XAMPP / WAMP / Django / Node server depending on your stack.
-
----
-
 ### 📸 Demo & Screenshots
 
 | Preview                                | Download                                                                                                                                                                                                        |
@@ -153,6 +78,81 @@ A **University Management System** designed to simplify and automate academic op
 </p>
 
 ---
+````markdown
+## 🎓 University Management System
+
+A **University Management System** designed to simplify and automate academic operations such as student registration, course management, faculty allocation, examination handling, and reporting. This project is ideal for educational institutions looking for a centralized digital solution.
+
+---
+
+### 🌟 Key Features
+
+* ✅ **Student Management**  
+  Register, update, and view student records, academic performance, and personal information.
+
+* 🧑‍🏫 **Faculty Management**  
+  Add faculty profiles, assign courses, and track teaching history.
+
+* 📘 **Course & Curriculum Management**  
+  Create, update, and manage courses, credits, and prerequisites.
+
+* 🗓️ **Class Scheduling**  
+  Timetable generation and classroom assignment.
+
+* 📝 **Examination System**  
+  Create exams, manage question banks, publish results.
+
+* 📄 **Result Processing**  
+  Grade calculation, GPA generation, and transcript generation.
+
+* 🔐 **Role-Based Access Control**  
+  Different access levels for Admin, Faculty, and Students.
+
+* 📊 **Dashboards & Analytics**  
+  Visual reports and statistics for better decision-making.
+
+* 📤 **Document Management**  
+  Upload and manage documents like ID cards, certificates, and grade reports.
+
+* 📨 **Notification System**  
+  Send alerts and updates via email or internal messages.
+
+* 💬 **Student-Faculty Interaction**  
+  Messaging or Q&A module between students and faculty.
+
+---
+
+### 🛠️ Technologies Used
+
+| Layer    | Technology                                 |
+| -------- | ----------------------------------------- |
+| Frontend | HTML, CSS, JavaScript, Bootstrap / React / Vue |
+| Backend  | PHP / Node.js                             |
+| Database | MySQL                                    |
+| Others   | jQuery, AJAX                             |
+
+---
+
+### 📦 Installation Guide
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/your-username/University-Management-System.git
+````
+
+2. **Configure the Database**
+   Import `database.sql` using phpMyAdmin or CLI.
+
+3. **Set Up Environment**
+   Configure environment variables or update `config.php` / `.env`.
+
+4. **Run the Server**
+   Launch using XAMPP / WAMP / Django / Node server depending on your stack.
+
+---
+
+
 
 ### 🤝 Contributing
 
