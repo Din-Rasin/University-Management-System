@@ -11,7 +11,7 @@
 #### 🏠 Dashboard & Overview
 
 <p align="center">
-  <img src="https://github.com/Din-Rasin/University-Management-System/raw/main/View%20Picture%20Demo%20%20University%20Management%20System/Screenshot%202025-05-21%20024817.png" width="600" />
+  <img src="" width="600" />
 </p>
 
 ---
